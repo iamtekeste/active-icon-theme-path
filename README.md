@@ -24,4 +24,4 @@ iconThemePath().then(path => {
 
 ## License
 
-MIT © [Tekeste G]
+MIT © [Tekeste G](https://github.com/iamtekeste)
