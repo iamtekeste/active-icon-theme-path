@@ -18,7 +18,6 @@ var iconThemePath = require('active-icon-theme-path');
 
 iconThemePath().then(path => {
 	console.log(path);
-  //
 	//=> '/usr/share/icons/name-of-the-active-icon-theme'
 });
 ```
