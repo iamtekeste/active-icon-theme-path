@@ -1,0 +1,33 @@
+{
+  "name": "active-icon-theme-path",
+  "version": "1.0.0",
+  "description": "Get the path to the active icon theme. Works on Ubuntu only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtekeste/active-icon-theme-path.git"
+  },
+  "keywords": [
+    "ubuntu",
+    "icon",
+    "theme",
+    "active-icon-theme-path"
+  ],
+  "author": "iamtekeste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtekeste/active-icon-theme-path/issues"
+  },
+  "homepage": "https://github.com/iamtekeste/active-icon-theme-path#readme",
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "gulp": "^3.9.1",
+    "gulp-ava": "^0.8.0"
+  },
+  "dependencies": {
+    "active-icon-theme-name": "^2.0.0"
+  }
+}
