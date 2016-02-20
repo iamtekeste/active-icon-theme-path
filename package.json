@@ -1,6 +1,6 @@
 {
   "name": "active-icon-theme-path",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Get the path to the active icon theme. Works on Ubuntu only.",
   "main": "index.js",
   "scripts": {
